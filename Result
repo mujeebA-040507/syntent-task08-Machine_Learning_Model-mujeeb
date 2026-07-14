@@ -1,0 +1,5 @@
+Result
+Successfully preprocessed the dataset by handling missing values and encoding categorical features.
+Trained and tested Linear Regression, Decision Tree, and Random Forest models for house price prediction.
+Evaluated model performance using RMSE and R² Score to compare prediction accuracy.
+Random Forest provided the best performance with the lowest prediction error and highest accuracy.
