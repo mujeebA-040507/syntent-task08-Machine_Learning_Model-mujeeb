@@ -1,0 +1,9 @@
+Approach
+Loaded and explored the House Price Prediction dataset.
+Selected input features (X) and the target variable (Price).
+Split the dataset into training (80%) and testing (20%) sets.
+Trained three machine learning models:
+Linear Regression
+Decision Tree Regressor
+Random Forest Regressor.
+Compared the models and identified the best-performing one.
